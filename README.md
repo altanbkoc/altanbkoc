@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer | Android & Desktop Applications
 ---------------------------------------------------
 
-I'm a Computer Engineering student with a strong interest in developing mobile and desktop applications. My focus is on creating functional, user-friendly software solutions using Java, C#, and various database technologies. I strive to explore new tools and technologies to continuously improve my skills and deliver quality projects.
+Im a Computer Engineering student with an interest in Android mobile application development using Java and Kotlin. I am continuously improving my skills in mobile development and staying up-to-date with the latest technologies. Through various projects, I aim to enhance my experience and focus on creating more efficient, user-friendly applications.
 
 * 🌍  I'm based in İzmir
 * ✉️  You can contact me at [altanbke@gmail.com](mailto:altanbke@gmail.com)
